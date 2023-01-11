@@ -6,6 +6,7 @@ Module Program
         Console.WriteLine("Hello World!")
         message = Console.ReadLine()
         Console.WriteLine($"you said: {message}!")
+        Console.WriteLine("Have a nice day!!!")
 
     End Sub
 End Module
