@@ -1,6 +1,6 @@
 Imports System
 
-Module Program
+Module HelloWorld
     Sub Main(args As String())
         Dim message As String = ""
         Console.WriteLine("Hello World!")
